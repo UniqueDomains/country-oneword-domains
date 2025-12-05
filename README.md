@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.COUNTRY one word doma
 | aaron.country      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.country  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.country      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.country  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.country  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.country    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.country     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.country   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.COUNTRY one word doma
 | abbatial.country   | available | 50       | 1%     | 8      |           |         |         |
 | abc.country        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.country  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.country  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.country  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.country | available | 56       | 1%     | 10     |           |         |         |
 | abducens.country   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.country   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.COUNTRY one word doma
 | aberdonian.country | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.country   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.country    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.country  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.country  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.country    | available | 106      | 5%     | 7      |           |         |         |
 | abient.country     | available | 54       | 1%     | 6      |           |         |         |
 | ability.country    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COUNTRY one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
