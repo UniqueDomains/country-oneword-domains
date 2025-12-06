@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.COUNTRY one word doma
 | abatic.country     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.country    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.country   | available | 50       | 1%     | 8      |           |         |         |
-| abc.country        | available | 102      | 41%    | 3      |           |         |         |
+| abc.country        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.country  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.country  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.country | available | 56       | 1%     | 10     |           |         |         |
