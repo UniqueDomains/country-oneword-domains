@@ -65,7 +65,6 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | insight.country       | available | $2,450    | —             | 76             | 69     | 8      | namecheap |
-| and.country           | resell    | —         | —             | 84             | 47     | 3      | NAMECHEAP |
 | keepthechange.country | available | $2,450    | —             | 46             | 59     | 15     | namecheap |
 | agents.country        | available | $2,450    | —             | 56             | 50     | 6      | namecheap |
 | matcha.country        | available | $2,450    | —             | 86             | 39     | 6      | namecheap |
@@ -84,6 +83,7 @@ print(df.head())
 | Trex.country          | available | $2,450    | —             | 80             | 24     | 5      | namecheap |
 | chem.country          | available | $2,450    | —             | 74             | 24     | 4      | namecheap |
 | schools.country       | available | $2,450    | —             | 72             | 24     | 7      | namecheap |
+| shops.country         | available | $2,450    | —             | 64             | 24     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

@@ -927,7 +927,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4fbb925d-28c5-45d1-8483-9ece836163ae,singleout.country,available,2450,,72,1,10,namecheap,,
 4fbc5cc0-181b-473b-af0a-259e7056bd78,saws.country,available,2450,,50,8,4,namecheap,,
 4fe7593b-f257-4d60-a85e-c7cf03ec0f81,highpolitics.country,available,2450,,62,0,13,namecheap,,
-500b1377-953b-488e-a80a-f60f2dab1399,and.country,resell,,,84,47,3,NAMECHEAP,20/05/2023 03:27,20/05/2026 03:27
 500bae7a-e2d2-4b9c-81e2-ca591bb3c72c,imutation.country,available,2450,,76,1,10,namecheap,,
 500fbcf2-576f-4c72-a56c-5b18ffdb975d,aunts.country,available,2450,,54,2,5,namecheap,,
 5026ff19-388d-4664-9e52-6190f7df30c2,beaches.country,available,2450,,72,14,7,namecheap,,
@@ -999,3 +998,4 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5635cc20-d869-4604-88c5-2810fb0aab9d,cutthrough.country,available,2450,,74,6,11,namecheap,,
 5656e720-4a5f-4b45-b49a-80cf0f04a626,sqmi.country,available,2450,,54,2,5,namecheap,,
 56718324-6e1b-46a3-b27e-1cc52cbbe09e,counselling.country,available,2450,,82,13,11,namecheap,,
+5678ae29-d9fd-4d09-a1b9-2a92aa654b9b,todolist.country,available,2450,,73,12,10,namecheap,,
