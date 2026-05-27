@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .country one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,530 domains · **Median ask:** $2,449.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/country`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | neuroscience.country  | available | $2,450    | —             | 80             | 37     | 12     | namecheap |
 | stories.country       | available | $2,450    | —             | 58             | 36     | 7      | namecheap |
 | aliens.country        | available | $2,450    | —             | 56             | 35     | 6      | namecheap |
-| etc.country           | available | $2,450    | —             | 58             | 34     | 3      | namecheap |
-| partners.country      | available | $2,450    | —             | 61             | 32     | 8      | namecheap |
+| etc.country           | available | $2,450    | —             | 58             | 32     | 3      | namecheap |
 | William.country       | available | $2,450    | —             | 74             | 31     | 7      | namecheap |
+| partners.country      | available | $2,450    | —             | 61             | 31     | 8      | namecheap |
 | slots.country         | available | $2,450    | —             | 49             | 31     | 5      | namecheap |
-| inspiration.country   | available | $2,450    | —             | 88             | 30     | 11     | namecheap |
 | SanDiego.country      | available | $2,450    | —             | 74             | 29     | 9      | namecheap |
 | quotes.country        | available | $2,450    | —             | 58             | 29     | 6      | namecheap |
+| inspiration.country   | available | $2,450    | —             | 88             | 27     | 11     | namecheap |
 | doctors.country       | available | $2,450    | —             | 56             | 26     | 7      | namecheap |
 | destination.country   | available | $2,450    | —             | 90             | 24     | 11     | namecheap |
 | Trex.country          | available | $2,450    | —             | 80             | 24     | 5      | namecheap |
 | chem.country          | available | $2,450    | —             | 74             | 24     | 4      | namecheap |
 | schools.country       | available | $2,450    | —             | 72             | 24     | 7      | namecheap |
-| shops.country         | available | $2,450    | —             | 64             | 24     | 5      | namecheap |
+| inhouse.country       | available | $2,450    | —             | 70             | 24     | 8      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
