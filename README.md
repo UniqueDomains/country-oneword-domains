@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .country one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,530 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,530 domains · **Median ask:** $2,449.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,530 domains · **Median ask:** $2,448.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/country`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/country`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COUNTRY one-word doma
 
 ### Files
 
-- `country.csv` — public CSV extract (1,000 rows)
-- `country.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `country.csv`, public CSV extract (1,000 rows)
+- `country.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| insight.country       | available | $2,450    | —             | 76             | 69     | 8      | namecheap |
-| keepthechange.country | available | $2,450    | —             | 46             | 59     | 15     | namecheap |
-| agents.country        | available | $2,450    | —             | 56             | 50     | 6      | namecheap |
-| matcha.country        | available | $2,450    | —             | 86             | 39     | 6      | namecheap |
-| neuroscience.country  | available | $2,450    | —             | 80             | 37     | 12     | namecheap |
-| stories.country       | available | $2,450    | —             | 58             | 36     | 7      | namecheap |
-| aliens.country        | available | $2,450    | —             | 56             | 35     | 6      | namecheap |
-| etc.country           | available | $2,450    | —             | 58             | 32     | 3      | namecheap |
-| William.country       | available | $2,450    | —             | 74             | 31     | 7      | namecheap |
-| partners.country      | available | $2,450    | —             | 61             | 31     | 8      | namecheap |
-| slots.country         | available | $2,450    | —             | 49             | 31     | 5      | namecheap |
-| SanDiego.country      | available | $2,450    | —             | 74             | 29     | 9      | namecheap |
-| quotes.country        | available | $2,450    | —             | 58             | 29     | 6      | namecheap |
-| inspiration.country   | available | $2,450    | —             | 88             | 27     | 11     | namecheap |
-| doctors.country       | available | $2,450    | —             | 56             | 26     | 7      | namecheap |
-| destination.country   | available | $2,450    | —             | 90             | 24     | 11     | namecheap |
-| Trex.country          | available | $2,450    | —             | 80             | 24     | 5      | namecheap |
-| chem.country          | available | $2,450    | —             | 74             | 24     | 4      | namecheap |
-| schools.country       | available | $2,450    | —             | 72             | 24     | 7      | namecheap |
-| inhouse.country       | available | $2,450    | —             | 70             | 24     | 8      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| half.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| okay.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| shh.country     | available | $2,450    | —             | medium         | low    | 3      | namecheap   |
+| study.country   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC |
+| base.country    | premium   | $2,450    | —             | medium         | medium | 4      | namecheap   |
+| UML.country     | available | $2,450    | —             | high           | low    | 3      | namecheap   |
+| bullish.country | premium   | $2,450    | —             | high           | low    | 7      | namecheap   |
+| wet.country     | available | $2,450    | —             | high           | low    | 3      | namecheap   |
+| xvi.country     | available | $2,450    | —             | medium         | low    | 3      | namecheap   |
+| xxi.country     | available | $2,450    | —             | medium         | low    | 3      | namecheap   |
+| yur.country     | available | $2,450    | —             | high           | low    | 3      | namecheap   |
+| acts.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
+| aide.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| aunt.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| bath.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| bean.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
+| bomb.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
+| boob.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| brie.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| bulk.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .country domains, spanning broad dictionary terms such as saucer.country, downtown.country, progress.country, and option.country. The range includes short, highly flexible words and longer, more literal terms, which creates a wide spread in brandability and buyer fit. When comparing these domains, focus first on whether the word is easy to say, easy to spell, and commercially usable with the .country ending. Then weigh ask price against how specific the term feels, how memorable it is, and whether the full domain reads naturally enough to justify ownership at the median ask level.
+This list gathers one-word .country domain names, from short dictionary terms to compact descriptive phrases. Names like tips.country, half.country, and jetblack.country show the range, spanning everyday words that read cleanly on their own. The median ask across the set is about $2,449, giving a starting point for comparing individual names. Whether you're sizing up a name for resale potential or for a new brand, checking price against word length, clarity, and renewal cost helps narrow the list to names worth pursuing.
 
-- Favor words that read naturally with .country
-- Short, clear dictionary words are easier to remember
-- Check ask price against term flexibility and breadth
-- Review trademark overlap before treating a name as ownable
+- 12,530+ one-word .country domain names in this list
+- Median ask near $2,449 across the selection
+- Includes short terms like tips, half, and jetblack
+- Compare pricing and renewal cost before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
