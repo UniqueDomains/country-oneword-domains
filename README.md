@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .country one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,623 domains · **Median ask:** $2,372.90 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/country`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| half.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| okay.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
 | clx.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
 | study.country   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC |
 | base.country    | premium   | $2,450    | —             | medium         | medium | 4      | namecheap   |
@@ -82,8 +84,6 @@ print(df.head())
 | ashy.country    | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
 | aunt.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
 | awed.country    | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
-| bath.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
-| bean.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
