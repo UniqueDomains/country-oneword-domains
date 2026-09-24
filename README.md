@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .country one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,227 domains · **Median ask:** $2,336.86 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/country`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| clx.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
-| study.country   | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC |
-| bullish.country | premium   | $2,450    | —             | high           | low    | 7      | namecheap   |
-| lvi.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
-| lxi.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
-| shh.country     | available | $2,450    | —             | medium         | low    | 3      | namecheap   |
-| uml.country     | available | $2,450    | —             | high           | low    | 3      | namecheap   |
-| wet.country     | available | $2,298    | $2,450        | medium         | low    | 3      | namecheap   |
-| xvi.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
-| xxi.country     | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
-| yur.country     | available | $2,450    | —             | high           | low    | 3      | namecheap   |
-| acid.country    | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap   |
-| acts.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
-| aide.country    | available | $2,499.99 | $3,799.99     | medium         | low    | 4      | name.com    |
-| ashy.country    | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
-| aunt.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
-| awed.country    | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
-| base.country    | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
-| bath.country    | available | $2,450    | —             | high           | low    | 4      | namecheap   |
-| bean.country    | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| half.country  | available | $2,298    | $2,450        | high           | low    | 4      | namecheap   |
+| clx.country   | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
+| study.country | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC |
+| lvi.country   | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
+| lxi.country   | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
+| shh.country   | available | $2,450    | —             | medium         | low    | 3      | namecheap   |
+| uml.country   | available | $2,450    | —             | high           | low    | 3      | namecheap   |
+| wet.country   | available | $2,298    | $2,450        | medium         | low    | 3      | namecheap   |
+| xvi.country   | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
+| xxi.country   | available | $2,298    | $2,450        | low            | low    | 3      | namecheap   |
+| yur.country   | available | $2,450    | —             | high           | low    | 3      | namecheap   |
+| acid.country  | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap   |
+| acts.country  | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
+| aide.country  | available | $2,499.99 | $3,799.99     | medium         | low    | 4      | name.com    |
+| ashy.country  | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
+| aunt.country  | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| awed.country  | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
+| base.country  | available | $2,298    | $2,450        | low            | low    | 4      | namecheap   |
+| bath.country  | available | $2,450    | —             | high           | low    | 4      | namecheap   |
+| bean.country  | available | $2,450    | —             | medium         | low    | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
