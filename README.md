@@ -1,10 +1,10 @@
-# Available .COUNTRY One-Word Domains (33,177)
+# Available .COUNTRY One-Word Domains (23,441)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C177%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C441%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .country one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,177 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,441 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,177 domains · **Median ask:** $2,334.93 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 23,441 domains · **Median ask:** $2,326.08 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/country`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| clx.country   | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
-| stain.country | premium   | $2,450    | —             | high           | low    | 5      | namecheap |
-| cxx.country   | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
-| lcd.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| lvi.country   | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
-| lxi.country   | available | $2,298    | $2,450        | medium         | low    | 3      | namecheap |
-| shh.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| uml.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| upc.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| won.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| yur.country   | available | $2,450    | —             | high           | low    | 3      | namecheap |
-| acid.country  | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
-| acts.country  | available | $2,450    | —             | high           | low    | 4      | namecheap |
-| also.country  | available | $2,450    | —             | high           | low    | 4      | namecheap |
-| asat.country  | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
-| ashy.country  | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
-| aunt.country  | available | $2,450    | —             | high           | low    | 4      | namecheap |
-| awed.country  | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
-| bank.country  | available | $2,450    | —             | high           | low    | 4      | namecheap |
-| bath.country  | available | $2,450    | —             | high           | low    | 4      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| afp.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| cxl.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| sse.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| aare.country | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
+| abbe.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| agar.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| ague.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| apsu.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| aqua.country | available | $2,298    | $2,450        | high           | medium | 4      | namecheap |
+| ards.country | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
+| arng.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| asea.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| ball.country | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
+| bern.country | available | $2,450    | —             | high           | low    | 4      | namecheap |
+| bleb.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| blok.country | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
+| clxx.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| cole.country | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
+| cove.country | available | $2,499.99 | $3,799.99     | high           | low    | 4      | name.com  |
+| curt.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,177 live domains                        |
+| 1,000-row public sample | 23,441 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 32 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
