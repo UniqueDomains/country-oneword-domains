@@ -24,13 +24,14 @@ c3493be8-9429-49cf-a964-ac22e0144d1c,volatile.country,available,2298,2450,high,l
 dda46679-1d51-4cc3-adaf-bda692329004,gyrate.country,available,2298,2450,medium,low,6,namecheap,,,10/09/2026 15:51
 1e0f278f-3488-4495-b22d-8de9aa889d76,television.country,available,2298,2450,high,low,10,namecheap,,,25/09/2026 22:50
 511a47ef-af01-4837-b3b1-72a3f1023c3f,soothes.country,available,2298,2450,medium,low,7,namecheap,,,20/09/2026 05:20
-7ee4fe72-fe47-49e7-aeb0-7afbf6cf3efd,recorded.country,available,2450,,high,low,8,namecheap,,,
+7ee4fe72-fe47-49e7-aeb0-7afbf6cf3efd,recorded.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 10:58
 bd7cfeda-f296-43ab-b934-3c84cc596e89,criticize.country,available,2450,,high,low,9,namecheap,,,
 da732e43-6315-4942-a5a1-95da53af547d,abasic.country,available,2298,2450,medium,low,6,namecheap,,,
 dec48335-f22f-42c8-a643-223e5b081918,supermarket.country,available,2450,,high,low,11,namecheap,,,
 a2d542d3-dacc-416a-9ff4-a4495d564f49,slowly.country,available,2298,2450,high,low,6,namecheap,,,22/08/2026 23:55
 59236567-8904-40b7-a5b2-a8b3b97774a0,nero.country,available,2298,2450,high,low,4,namecheap,,,25/09/2026 23:29
 81aface7-2432-4b5d-aa13-1031b0083bd8,aright.country,available,2298,2450,high,low,6,namecheap,,,13/09/2026 20:49
+18574a5f-ffc1-4419-8a9f-4304e7d64cb7,bloomington.country,available,2298,2450,high,low,11,namecheap,,,27/09/2026 08:15
 a1442ec6-8a54-4b29-adc4-3cd1c7c0f68d,production.country,available,2298,2450,high,low,10,namecheap,,,19/09/2026 18:56
 d3fcfd2a-992e-480c-8478-786143633ec5,exuberant.country,available,2298,2450,high,low,9,namecheap,,,14/08/2026 23:21
 d12bc034-e1eb-4a02-9d95-7b9dfcfb2c18,voluntary.country,available,2298,2450,high,low,9,namecheap,,,13/09/2026 07:07
@@ -136,11 +137,10 @@ f0c40362-c57d-4758-91f9-a613c143ce13,amharic.country,available,2298,2450,medium,
 9f1ad2de-4522-4666-a6d3-18c3e21a0dee,cutaneous.country,available,2499.99,3799.99,medium,low,9,name.com,,,13/08/2026 12:54
 c05c87a5-8b95-470e-9a0a-20dfbcf6c0ee,somehow.country,available,2450,,high,low,7,namecheap,,,
 334c12d7-cab5-4797-a139-3b7730ffac32,hormone.country,available,2298,2450,high,low,7,namecheap,,,17/08/2026 01:04
-e4a561b6-d565-4c64-8f39-99d588c82775,facebook.country,available,,,high,high,8,,,,
 cdb2cf60-54dd-4b09-ab65-890a4e7d2ea4,sushi.country,available,2450,,high,low,5,namecheap,,,
 6e93e041-e04d-4a4f-a19d-4c19abf905fb,astutely.country,available,2298,2450,medium,low,8,namecheap,,,13/09/2026 22:20
 f42ca5f7-059c-456c-b093-22e86674c3f4,koala.country,available,2450,,high,low,5,namecheap,,,
-007096f3-15d9-4cfb-90cb-28238fbed33d,thug.country,available,2450,,high,low,4,namecheap,,,
+007096f3-15d9-4cfb-90cb-28238fbed33d,thug.country,available,2298,2450,high,low,4,namecheap,,,27/09/2026 08:15
 d7663631-2886-49b6-9f2b-3a9438228365,runners.country,available,2298,2450,high,low,7,namecheap,,,18/09/2026 06:01
 47681544-2378-45a4-b1a0-891edf4608f0,unwashed.country,available,2298,2450,medium,low,8,namecheap,,,08/09/2026 21:02
 fd0c0ec4-6c64-4dfe-9f24-8e77d8a2a4ed,bismark.country,available,2298,2450,medium,low,7,namecheap,,,23/09/2026 09:37
@@ -172,7 +172,9 @@ f0a6c9cf-fc72-4021-a554-cc7ea39a9db6,hotel.country,available,2450,,high,medium,5
 b111c0a6-3048-402e-a6dd-355320e04f19,altair.country,available,2298,2450,medium,low,6,namecheap,,,18/09/2026 14:31
 d90d5119-6b03-4408-b8a1-2d4d594e7312,marred.country,available,2298,2450,medium,low,6,namecheap,,,24/08/2026 16:28
 0185f0e2-0b56-42e4-989b-acc1814eea2d,threadfish.country,available,2298,2450,medium,low,10,namecheap,,,18/09/2026 04:49
+8ab9e499-cff8-4a00-bc1c-4c5de8b6260f,quentin.country,available,2499.99,3799.99,medium,low,7,name.com,,,27/09/2026 01:36
 50c43378-05fd-4244-93ce-fe221016865d,reactive.country,available,2298,2450,high,low,8,namecheap,,,09/09/2026 10:56
+467321f0-60a5-43fd-a40a-a38b9176433b,keating.country,available,2298,2450,high,low,7,namecheap,,,27/09/2026 08:01
 16fec251-e0b0-4a9f-ac47-bfdb3efa8d16,autofocus.country,available,2298,2450,high,low,9,namecheap,,,21/09/2026 06:19
 d7293bb2-0d7e-4308-8585-f2c28653d64b,tongued.country,available,2298,2450,medium,low,7,namecheap,,,11/09/2026 17:08
 c8520761-0600-4d08-821c-85a6293302dd,meet.country,available,2298,2450,high,low,4,namecheap,,,24/08/2026 19:18
@@ -228,6 +230,7 @@ e9caac93-c301-4afa-9c5c-7a95e14739f8,genetic.country,available,2298,2450,high,lo
 179eb659-e99f-4df5-8ad3-379a331b3caa,adhere.country,available,2298,2450,high,low,6,namecheap,,,23/09/2026 17:04
 a2d72a9e-b6b1-4fb5-b3f0-7858c46262bd,dictionary.country,available,2298,2450,high,low,10,namecheap,,,24/09/2026 22:14
 b70c40f6-8c7d-435f-9756-082beaac936d,homeward.country,available,2298,2450,high,low,8,namecheap,,,21/08/2026 11:22
+a0c1e2e9-18f9-4dbb-b8c8-e367b13a8d8f,spots.country,available,2298,2450,high,low,5,namecheap,,,27/09/2026 04:00
 1624974b-3ff6-4922-a9a7-5130d5ab5948,baseless.country,available,2298,2450,medium,low,8,namecheap,,,08/08/2026 21:44
 36c6d85e-c3ab-4f81-ba4c-ae857db8ba92,allusive.country,available,2298,2450,high,low,8,namecheap,,,
 e303a17b-ec35-4f39-9847-4c4b1db4f960,reunion.country,available,,,high,medium,7,,,,
@@ -238,6 +241,7 @@ b3654384-bef5-42f5-b8e3-066088df54e6,buttony.country,available,2298,2450,medium,
 1eacc3da-eff3-4dc9-a9e5-acfb84f3132e,defeated.country,available,2298,2450,medium,low,8,namecheap,,,13/08/2026 23:04
 c28b936c-2f0e-4637-9286-67f4e84bfad5,sweetsop.country,available,2298,2450,medium,low,8,namecheap,,,19/09/2026 10:27
 c543efc7-4b19-4d06-bcbc-dbd412d85788,snidely.country,available,2298,2450,low,low,7,namecheap,,,16/09/2026 03:18
+56c64455-e2e8-426e-8f21-19afbaa3f80d,harcourt.country,available,2298,2450,medium,low,8,namecheap,,,27/09/2026 08:10
 3af500d0-accd-4311-9a37-2c7754d199ca,photic.country,available,2298,2450,high,low,6,namecheap,,,08/09/2026 19:17
 2bb56f77-c1b7-4d5a-b425-f0ce2ebb6ea6,attacker.country,available,2298,2450,high,low,8,namecheap,,,17/09/2026 17:41
 a1a14ede-0c3e-4f74-8b66-44f94e47a784,jolty.country,available,2298,2450,medium,low,5,namecheap,,,11/08/2026 09:50
@@ -261,16 +265,19 @@ e554ad28-4d1d-4afe-8f8b-4cb5fb2dfc99,missional.country,available,2298,2450,high,
 f617b760-0d42-4d6b-8622-077ddbef5a10,chirping.country,available,2450,,high,low,8,namecheap,,,
 9fc275da-08cd-456d-b68c-f1b7734af759,animistic.country,available,2298,2450,medium,low,9,namecheap,,,
 0ba6ef27-aa3a-4ebf-ba04-d9245819912b,prettily.country,available,2298,2450,medium,low,8,namecheap,,,15/09/2026 21:22
+3df28040-c731-480b-8e73-156b6a81cd22,hobbs.country,available,2298,2450,high,low,5,namecheap,,,27/09/2026 04:26
 1d9a691b-cb46-4839-bd48-33c7b5008972,chuck.country,available,2298,2450,high,low,5,namecheap,,,08/09/2026 10:16
 d3669dc2-5f49-427a-ac61-0ccb3b0ce115,taxing.country,available,2298,2450,medium,low,6,namecheap,,,11/08/2026 10:33
 3167580f-4fdb-4537-91ba-1b2729c83900,flightless.country,available,2298,2450,medium,low,10,namecheap,,,18/08/2026 08:09
 1815fb0b-a25d-4995-bd97-9f979ad499e5,absent.country,available,2298,2450,high,low,6,namecheap,,,21/09/2026 14:37
+667daf63-6ef3-419a-9a2e-5b92d038d157,jeremy.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 10:46
 899c5bc7-f275-4721-95e8-46546de6b04e,seaworthy.country,available,2298,2450,high,low,9,namecheap,,,10/09/2026 01:05
 9500ea60-2920-4eec-aa56-73f25528791d,octagonal.country,available,2298,2450,medium,low,9,namecheap,,,04/09/2026 00:37
 0205e1f9-b72b-4b0e-90a9-ddb6061126b2,astonished.country,available,2298,2450,high,low,10,namecheap,,,22/09/2026 03:35
 1de45784-74eb-4767-9396-692d72e2e44a,launches.country,available,2298,2450,high,low,8,namecheap,,,21/09/2026 09:09
 ba47a8ba-7f61-4ee1-ac78-3469f523c7b2,pissed.country,available,2298,2450,medium,low,6,namecheap,,,
 efa9dd3f-4825-45e9-b49e-d39b704849bc,committees.country,available,2298,2450,medium,low,10,namecheap,,,20/09/2026 09:05
+5a7db75f-d5aa-4b13-ac73-c4b5616ccf34,crossing.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 03:30
 aa15f8d8-bc19-4ba7-a44f-dda0d78c47b8,khartoum.country,available,2298,2450,medium,low,8,namecheap,,,24/09/2026 12:25
 0031b4cd-f1b2-4cbc-90e8-a0ae3ac15603,unentitled.country,available,2298,2450,low,low,10,namecheap,,,12/09/2026 09:07
 91972a30-f51c-4ad3-990b-83eacd76c031,disloyal.country,available,2298,2450,medium,low,8,namecheap,,,14/08/2026 11:36
@@ -278,11 +285,12 @@ f9573a8e-4d32-4381-9e93-7afda7d54b24,clxx.country,available,2298,2450,medium,low
 4d6aab6f-86cb-4ee3-af20-ed61459c52a0,koch.country,available,2298,2450,high,low,4,namecheap,,,25/09/2026 08:52
 41474f2a-9372-4a4a-b236-8752a9006a22,arietta.country,available,2298,2450,medium,low,7,namecheap,,,20/09/2026 05:25
 878950d1-59e8-4dab-9ecd-9873f6c4e12b,unreached.country,available,2298,2450,medium,low,9,namecheap,,,04/09/2026 18:48
+38652113-c0cb-4faf-ab34-571adf1052b9,troubles.country,available,2298,2450,medium,low,8,namecheap,,,27/09/2026 02:38
 8939b11a-39f0-45ae-adf4-7a4bc9a73ef5,infantile.country,available,2298,2450,medium,low,9,namecheap,,,12/08/2026 05:04
 76508b9b-a6ad-41a5-8793-d2f5989f9d0f,dissonant.country,available,2298,2450,medium,low,9,namecheap,,,07/08/2026 12:26
 1ff97672-3882-493c-afb8-2db57160d92a,ominous.country,available,2298,2450,medium,low,7,namecheap,,,24/08/2026 20:00
 718a0714-ebe2-4e1b-8389-512c5edc372e,annum.country,available,2298,2450,high,low,5,namecheap,,,19/09/2026 11:04
-b5c197e1-f26d-4672-b9f2-4426d54e38d5,proper.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 17:25
+b5c197e1-f26d-4672-b9f2-4426d54e38d5,proper.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 07:40
 878aaafc-a4ec-4ee0-9239-93bbe1ec84ea,gmail.country,available,,,high,high,5,,,,
 47ddefc8-d506-4ae3-b9bf-60b0b6c8d30a,role.country,available,2298,2450,high,low,4,namecheap,,,25/09/2026 09:54
 17ac62ed-70c7-4c7d-a5e9-33fad91ff604,regulated.country,available,2298,2450,high,low,9,namecheap,,,09/09/2026 13:06
@@ -290,11 +298,12 @@ ed62914e-fe20-4507-845f-84f52757276a,triple.country,available,2450,,high,low,6,n
 18de191e-e703-4dd3-8be5-3024988d1c10,knocker.country,available,2298,2450,medium,low,7,namecheap,,,24/09/2026 22:02
 9c1cc995-cf2b-4d48-b61e-fce2231839f1,dallas.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 04:35
 aa8a8b1f-601e-432d-ab70-aae7a8bb65fb,blazonry.country,available,2499.99,3799.99,medium,low,8,name.com,,,24/09/2026 05:06
-d3f6db5b-0bf7-46ac-8bb9-87232d4225fa,refuse.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 22:50
+d3f6db5b-0bf7-46ac-8bb9-87232d4225fa,refuse.country,available,2298,2450,medium,low,6,namecheap,,,27/09/2026 02:42
 cb2ab749-3c50-440f-ab05-664dad537889,diagonal.country,available,2298,2450,medium,low,8,namecheap,,,07/08/2026 04:07
 71eba253-bc74-491d-8b0b-c12185c5271a,hobart.country,available,2499.99,3799.99,high,low,6,name.com,,,25/09/2026 07:24
 94460b33-6820-4c6d-81a7-4129be05db26,babbitt.country,available,2298,2450,high,low,7,namecheap,,,21/09/2026 12:17
 91ce5a11-68d6-42c5-b3dd-e4ffb1b7f2e1,landed.country,available,2298,2450,high,low,6,namecheap,,,22/08/2026 19:22
+bcfec865-5bdd-4bf8-a39a-4d0e478f818f,huntsville.country,available,2298,2450,high,low,10,namecheap,,,27/09/2026 04:30
 3729f943-95bb-4472-81f8-c2f92e41701d,roughhewn.country,available,2298,2450,high,medium,9,namecheap,,,09/09/2026 19:00
 e3803d76-c5d7-4eb4-903e-fe01457a82af,origin.country,available,2298,2450,high,low,6,namecheap,,,08/09/2026 13:23
 15aa75de-a7bc-45d0-931d-b238cdc0ebb9,phantom.country,available,2298,2450,high,low,7,namecheap,,,08/09/2026 18:32
@@ -333,6 +342,7 @@ c2645f85-53f4-4c50-800a-dccd3820f4ee,notably.country,available,2298,2450,medium,
 98e0e891-5c7e-4b6b-b115-dcd6be7bd67a,roughly.country,available,2298,2450,high,low,7,namecheap,,,21/09/2026 14:14
 1df3ed6e-85f2-473c-9e36-a0f3e2e1397e,laxative.country,available,2298,2450,high,low,8,namecheap,,,22/08/2026 21:25
 26b3e744-3a7f-4825-b39b-aec3c37d5089,hector.country,available,2298,2450,medium,low,6,namecheap,,,11/08/2026 08:59
+2fb9fcce-78ea-4283-9e4e-bbea3e4a9a36,prosecutor.country,available,2298,2450,high,low,10,namecheap,,,27/09/2026 05:05
 c9531018-2541-4cf4-8228-90827cd0b5c0,lumpy.country,available,2298,2450,medium,low,5,namecheap,,,12/08/2026 07:46
 28c920b2-3d0e-4e5e-8c67-9b470f8d6a1b,prayers.country,available,2298,2450,high,low,7,namecheap,,,18/09/2026 03:21
 b781ce4c-2cf3-4128-8f00-877d3678ba5c,applier.country,available,2298,2450,medium,low,7,namecheap,,,19/09/2026 21:54
@@ -378,6 +388,7 @@ e66d985f-4550-4b9e-a670-26480153a393,services.country,available,2450,,high,low,8
 06283ca4-4060-4e91-af9c-c0b41e8ca672,azores.country,available,2298,2450,high,low,6,namecheap,,,17/09/2026 02:13
 ac63f2a3-b6b7-4ae1-a145-3c2499030f80,skimpy.country,available,2298,2450,high,low,6,namecheap,,,10/09/2026 09:36
 c0a354a5-6350-42be-958b-2356a7ba8506,nonpolar.country,available,2298,2450,medium,low,8,namecheap,,,03/09/2026 20:17
+9137372f-8519-4f25-9136-f558cc4f7902,threaten.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 04:46
 48725931-f36f-43d8-b168-e9ba3c554e5e,pellmell.country,available,2298,2450,medium,low,9,namecheap,,,21/08/2026 01:07
 c4b35e94-0cec-4861-bada-524020d12767,bandanna.country,available,2298,2450,high,low,8,namecheap,,,22/09/2026 00:59
 11bf2163-be4e-4dd7-aaa6-3198d1889435,struggling.country,available,2298,2450,medium,low,10,namecheap,,,10/09/2026 22:52
@@ -463,9 +474,10 @@ e8181629-5437-435c-9a14-387a16d3bef4,skinner.country,available,2298,2450,high,lo
 f37214d3-b437-42db-97c7-387ef5b9904f,memorise.country,available,2450,,high,low,8,namecheap,,,
 59f36a90-b195-40fc-bdf0-c64a65ed04ae,smokeless.country,available,2298,2450,high,low,9,namecheap,,,10/09/2026 11:57
 af27e731-5272-412f-b4b6-13dbaba585f1,avalanche.country,available,2298,2450,high,low,9,namecheap,,,21/09/2026 08:38
-0ad657c1-057b-43ef-8b57-29bacf37a826,start.country,available,2450,,high,medium,5,namecheap,,,
+0ad657c1-057b-43ef-8b57-29bacf37a826,start.country,available,2298,2450,high,medium,5,namecheap,,,27/09/2026 04:39
 3c74c5bd-5063-451d-b7be-6b3a5d718913,dorian.country,available,2298,2450,high,low,6,namecheap,,,14/08/2026 16:11
 abd1ba57-7a9c-4111-b944-2773c69dc330,records.country,available,2450,,high,low,7,namecheap,,,
+fa9ba9a1-fb28-44b5-97a8-c16c53fb630d,dietrich.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 03:44
 07d7b96a-a667-461a-9473-49dd21924a2c,incurious.country,available,2298,2450,medium,low,9,namecheap,,,22/08/2026 02:08
 59b0d6d2-42a4-4248-b74f-699526fd4345,theme.country,available,2450,,high,low,5,namecheap,,,
 7785e304-3d77-4aa6-9b78-4099e40a9d07,alchemist.country,available,2298,2450,high,low,9,namecheap,,,18/09/2026 03:58
@@ -500,7 +512,7 @@ c5158b23-9353-4e1c-a247-4b3e1f748532,main.country,available,2298,2450,high,low,4
 a62429c8-c7e0-46c4-b8ba-49b5ded15523,entranced.country,available,2298,2450,medium,low,9,namecheap,,,09/08/2026 10:11
 f5abf8ca-cd41-4bcc-964b-f0960fa624f7,ragweed.country,available,2298,2450,high,low,7,namecheap,,,23/09/2026 08:50
 0a78c1f9-f5b6-487d-8fe2-2b29c86dacdf,versatile.country,available,2298,2450,high,low,9,namecheap,,,13/09/2026 04:27
-1898dc30-f3dd-49a6-ad09-06b8d759cb7c,garden.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 02:08
+1898dc30-f3dd-49a6-ad09-06b8d759cb7c,garden.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 01:57
 430c74b2-4903-41ae-8e00-c0ef7f9535ff,onions.country,available,2450,,high,low,6,namecheap,,,
 d78576bc-521e-403e-907d-2f49a5de1857,sounds.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 17:10
 33eb782a-8da7-4174-bf0c-03f286d1fe2e,quelled.country,available,2298,2450,medium,low,7,namecheap,,,09/09/2026 08:24
@@ -516,7 +528,9 @@ d02fb06e-a683-4f24-88ea-a42c493d8460,waybill.country,available,2298,2450,medium,
 e38a3636-8c7d-48fe-9850-b24a3a5478fa,antilles.country,available,2298,2450,high,low,8,namecheap,,,19/09/2026 14:37
 d4970331-4cfd-4248-ab51-442d3cbdbecb,piddle.country,available,2298,2450,medium,low,6,namecheap,,,13/09/2026 08:06
 9e739d97-3b08-4f9b-a139-90f7e48a6b66,abeyant.country,available,2298,2450,medium,low,7,namecheap,,,
+db5d1e77-d374-4fa1-af9c-6ec088a550e8,priest.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 04:53
 052cf97a-fe45-4560-a984-230569d42e8c,unripe.country,available,2298,2450,medium,low,6,namecheap,,,12/09/2026 18:30
+8520bbcc-d074-4e4e-ab90-33a62c29bb32,preparing.country,available,2298,2450,high,low,9,namecheap,,,27/09/2026 06:40
 05add36a-b983-4720-a629-2d5dc9ac93d0,mothy.country,available,2298,2450,low,low,5,namecheap,,,25/08/2026 07:14
 9cbe6649-b617-4e6e-aab9-7387feb02c95,ataraxic.country,available,2298,2450,low,low,8,namecheap,,,07/08/2026 12:49
 b66752a0-8705-4ca5-8c0b-162ab6c04891,abuja.country,available,2499.99,3799.99,high,low,5,name.com,,,16/09/2026 18:50
@@ -546,7 +560,7 @@ f32476fc-12b7-48c5-8345-af31055ad89c,sere.country,available,2298,2450,medium,low
 89dda74c-fc58-46a5-84b2-880a26e0cf63,alluvium.country,available,2499.99,3799.99,medium,low,8,name.com,,,18/09/2026 12:20
 c45e9995-77ab-444c-bd7d-9e02e22ed4b1,corky.country,available,2298,2450,high,low,5,namecheap,,,13/08/2026 01:23
 8e1dc67b-aae5-4948-a2c2-7c459ca7f087,pittsburgh.country,available,2450,,high,low,10,namecheap,,,
-ccf29ed2-1327-42b0-9b84-3685b7ddd0ca,polish.country,available,2450,,high,low,6,namecheap,,,
+ccf29ed2-1327-42b0-9b84-3685b7ddd0ca,polish.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 04:22
 57e1cc30-00d0-4431-a9ec-87988bd2a982,curie.country,available,2298,2450,high,low,5,namecheap,,,12/08/2026 08:00
 ae82c08b-0a93-4bfb-9245-f063a9b5c747,misgiving.country,available,2298,2450,medium,low,9,namecheap,,,24/09/2026 23:11
 eacea2d7-b15b-4fc6-b4ca-780099f2f4bf,manuals.country,available,2298,2450,medium,low,7,namecheap,,,20/09/2026 09:33
@@ -569,6 +583,7 @@ ac7889d1-da2f-4b87-95c6-413cd15fddb8,apocope.country,available,2298,2450,medium,
 fdacea9e-5b27-4d66-9309-95004bfa2980,invent.country,available,2450,,high,low,6,namecheap,,,
 eb164a89-a661-4314-8274-7797276018ec,confuse.country,available,2450,,high,low,7,namecheap,,,
 40966960-ca44-4a5c-805b-572c7a9eb8d6,endocrine.country,available,2298,2450,high,low,9,namecheap,,,17/08/2026 01:00
+652e2254-3b1e-4aa2-9c6b-7fb50bd856e7,lovers.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 02:55
 67479817-2874-4b12-890e-0cd61a120541,rowe.country,available,2298,2450,high,low,4,namecheap,,,25/09/2026 16:05
 912daa7a-bc28-4b54-9a63-02236b80e018,hazardous.country,available,2298,2450,medium,low,9,namecheap,,,21/08/2026 01:42
 f037f3cc-b5dd-4849-a5a9-66ff0340f0ad,horrified.country,available,2298,2450,medium,low,9,namecheap,,,21/08/2026 14:14
@@ -600,8 +615,8 @@ a018052c-f558-4498-b1e7-b33e250ec49e,semiotical.country,available,2298,2450,medi
 43c87bd9-8486-4bf4-8840-02b611719a35,starts.country,available,2450,,medium,low,6,namecheap,,,
 b14a834d-4d09-4d16-b21b-d3b57b852cc8,blok.country,available,2298,2450,high,low,4,namecheap,,,18/09/2026 05:01
 94a994e1-8a75-4ea5-8f69-22d93087e299,coalesced.country,available,2298,2450,medium,low,9,namecheap,,,
+411be6ea-84fa-482d-bfb0-ef89e0fcad9b,sul.country,available,2298,2450,high,low,3,namecheap,,,27/09/2026 10:19
 8710fbeb-16fb-4743-b37c-7883b600cc4e,ally.country,available,,,high,high,4,,,,
-d44b7fb0-24f5-4e8e-928e-35d13d57b784,japan.country,available,,,high,high,5,,,,
 b410015c-af8a-4b14-9a39-b3808a484f23,freedom.country,available,,,high,medium,7,,,,
 55462bc1-b371-4f37-b365-4225928afce5,pyramidal.country,available,2298,2450,high,low,9,namecheap,,,09/09/2026 06:55
 2b5c78a1-fbc6-4517-87fc-1726606b0024,pneumatic.country,available,2298,2450,high,low,9,namecheap,,,08/09/2026 22:06
@@ -609,6 +624,7 @@ b410015c-af8a-4b14-9a39-b3808a484f23,freedom.country,available,,,high,medium,7,,
 599ab3e2-a618-4f42-a5ce-db5a326aa04f,frizzly.country,available,2298,2450,medium,low,7,namecheap,,,18/08/2026 16:06
 a7ad1e47-0c14-49e4-9c68-8b8712c330c6,dolt.country,available,2298,2450,medium,low,4,namecheap,,,10/09/2026 23:09
 e82fc38b-2727-4776-a4c3-2b43bd13c4e2,atonia.country,available,2298,2450,medium,low,6,namecheap,,,19/09/2026 00:37
+11302505-20e8-4168-a624-8008eb00f1c4,locked.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 02:54
 23a356bd-7619-45f6-9b05-f9f06714d1e5,snub.country,available,2298,2450,high,medium,4,namecheap,,,10/09/2026 12:47
 ac24f4df-d3ab-4211-b6ce-3e2f7a5bf118,gill.country,available,2298,2450,high,low,4,namecheap,,,24/09/2026 08:09
 4de9e522-c71c-469e-ba0b-bc5a5354216c,kochia.country,available,2298,2450,medium,low,6,namecheap,,,22/09/2026 12:18
@@ -627,7 +643,7 @@ d3dfdf8c-ed36-408b-99ff-f705553d2618,accuser.country,available,2450,,high,low,7,
 2c1e705f-0e66-45a0-8079-b122fd531a56,dinosaur.country,available,2450,,high,low,8,namecheap,,,
 2d62bb4e-d98d-479c-addf-e25274d1ee30,introduces.country,available,2298,2450,medium,low,10,namecheap,,,18/09/2026 14:34
 18628782-2673-4875-a029-0db95ade0b0e,whiteboard.country,available,2450,,high,low,10,namecheap,,,
-926ebb44-553e-45eb-b2b3-1671eb50bd39,observer.country,available,2450,,high,low,8,namecheap,,,
+926ebb44-553e-45eb-b2b3-1671eb50bd39,observer.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 03:30
 104372fd-1404-4e73-a76d-e242d19faa21,trouper.country,available,2298,2450,high,low,7,namecheap,,,22/09/2026 06:54
 8cb93335-61bc-43fd-8755-f7168111bba8,agave.country,available,2298,2450,high,low,5,namecheap,,,17/09/2026 16:37
 c747cf0a-2a69-4de8-bf62-57b4ef8c86c3,legally.country,available,2499.99,3799.99,high,low,7,name.com,,,13/08/2026 19:07
@@ -650,19 +666,20 @@ fa31e016-20d5-4f50-866d-7189b552d372,mailed.country,available,2298,2450,high,low
 678d98da-c05b-423a-8029-d3c4725b1e5d,addend.country,available,2298,2450,medium,low,6,namecheap,,,17/09/2026 06:41
 e091818e-f5b8-4247-85b1-01280de99088,board.country,available,2450,,high,low,5,namecheap,,,
 d17d5793-4fcc-437b-85eb-a07c98b61838,eyry.country,available,2298,2450,high,low,4,namecheap,,,
-362fe53a-15a5-4a93-b982-351d6044ef91,published.country,available,2450,,high,low,9,namecheap,,,
+362fe53a-15a5-4a93-b982-351d6044ef91,published.country,available,2298,2450,high,low,9,namecheap,,,27/09/2026 07:35
 96665eec-40d9-4fa8-9e33-d5556577b493,skintight.country,available,2298,2450,medium,low,9,namecheap,,,10/09/2026 09:40
 d5701381-9aeb-4a4b-9466-e7e6dd30263b,annalistic.country,available,2298,2450,high,low,10,namecheap,,,
 7a11b415-1e43-4223-b7cc-9efda6736de0,phases.country,available,2298,2450,medium,low,6,namecheap,,,18/09/2026 14:38
 a7ab819f-6ed9-4f79-b75f-5c784962c2d9,mountain.country,available,2298,2450,high,low,8,namecheap,,,25/09/2026 20:48
 9b79b21d-c802-403c-a22f-6ca69c82ca8c,question.country,available,2298,2450,high,low,8,namecheap,,,25/09/2026 10:22
 3651ff82-3647-4398-a5ef-15ffdedd5e28,loud.country,available,2298,2450,high,low,4,namecheap,,,24/09/2026 19:25
+9e9cc4c1-08b2-4096-8b15-a0673999063d,modernist.country,available,2298,2450,high,low,9,namecheap,,,27/09/2026 04:47
 8fdf6f82-850c-4355-9d63-77363f2e173f,home.country,available,2298,2450,high,medium,4,namecheap,,,24/09/2026 23:55
 067a8415-c3c0-445e-84d2-7ed4e54e41c4,spontaneity.country,available,2450,,high,low,11,namecheap,,,
 81ec1705-6615-4933-866e-c70c85c010de,bawdy.country,available,2298,2450,medium,low,5,namecheap,,,09/08/2026 02:05
 5384799e-8896-446d-91c4-d262fc4a4917,soissons.country,available,2499.99,3799.99,medium,low,8,name.com,,,22/09/2026 15:58
 5a2f166d-05a2-40a2-a218-2af5839f46ab,benson.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 15:16
-6298772c-66f2-4cce-a14e-9fc5730566b7,jail.country,available,2450,,high,low,4,namecheap,,,
+6298772c-66f2-4cce-a14e-9fc5730566b7,jail.country,available,2298,2450,high,low,4,namecheap,,,27/09/2026 04:20
 3931b012-1387-49bb-8542-c7bafa1613b1,dame.country,available,2298,2450,high,low,4,namecheap,,,24/09/2026 20:56
 4fceafba-24eb-4518-862e-e55dec429ec2,talebearer.country,available,2298,2450,medium,low,10,namecheap,,,11/09/2026 10:34
 130cccfc-8cfa-4335-8bbb-6ae82a726dc8,bubbling.country,available,2298,2450,high,low,8,namecheap,,,11/08/2026 07:15
@@ -710,12 +727,13 @@ f7a5d9ba-602d-4388-99d1-f0672000ff3c,antihero.country,available,2298,2450,high,l
 a5683020-e07b-4f51-b6ec-b1a8a96b6427,maggie.country,available,2298,2450,high,low,6,namecheap,,,25/09/2026 11:56
 416dfb8d-5c31-4ccf-9c30-6f27e5150f86,supervisor.country,available,2450,,high,low,10,namecheap,,,
 5fb1acbb-91de-458a-93f4-791e3b828aed,directed.country,available,2298,2450,high,low,8,namecheap,,,24/09/2026 10:49
+8dcebecc-e9c4-4bed-b0f6-429655f05050,confirm.country,available,2298,2450,high,low,7,namecheap,,,27/09/2026 05:57
 deecacf7-d716-4330-82e2-596889b385ca,voguish.country,available,2298,2450,high,low,7,namecheap,,,12/08/2026 04:42
 652ba16a-9696-4815-aafa-83c241bfedf6,carpet.country,available,2450,,high,low,6,namecheap,,,
 1c9a5507-8ab6-4bfa-9522-2897211cdbdc,athos.country,available,2298,2450,medium,low,5,namecheap,,,20/09/2026 21:17
 82ec4fe0-3561-4d36-80c5-407e08e49089,rivalrous.country,available,2298,2450,medium,low,9,namecheap,,,09/09/2026 18:06
 7ff681b5-0aef-4472-a409-00781ba88979,uninspired.country,available,2298,2450,medium,low,10,namecheap,,,12/09/2026 13:05
-7b87502e-e40f-4e6b-9bc9-da14646458b9,science.country,available,2298,2450,high,medium,7,namecheap,,,24/09/2026 19:44
+7b87502e-e40f-4e6b-9bc9-da14646458b9,science.country,available,2298,2450,high,medium,7,namecheap,,,27/09/2026 01:40
 6490fc9c-a613-4880-84e9-67e1ecc6b6ab,checkup.country,available,2298,2450,high,low,7,namecheap,,,24/08/2026 18:57
 6fb71ed3-7208-4e01-b1fe-9708eb865f4a,author.country,available,2298,2450,high,low,6,namecheap,,,21/09/2026 05:09
 d69f9780-fa7f-4acb-8ee3-ebf82d78ce45,bungalow.country,available,2298,2450,high,low,8,namecheap,,,24/09/2026 11:15
@@ -783,7 +801,7 @@ d3cde99c-80e6-4238-a60f-f44b7ca7c8f6,charlie.country,available,2298,2450,high,me
 24b6bad9-ee9d-4c51-90e3-53f99d89c307,lesbian.country,available,2298,2450,high,low,7,namecheap,,,23/08/2026 00:15
 07b44538-e9f6-42ab-a6aa-04880ed87323,saturated.country,available,2298,2450,medium,low,9,namecheap,,,09/09/2026 21:53
 e3801d41-430c-471d-8c49-1bc50c7768b5,investing.country,available,2298,2450,high,low,9,namecheap,,,25/09/2026 06:24
-79091178-2ef2-42ba-bcc7-e3b7f8acaaa4,precise.country,available,2450,,high,low,7,namecheap,,,
+79091178-2ef2-42ba-bcc7-e3b7f8acaaa4,precise.country,available,2298,2450,high,low,7,namecheap,,,27/09/2026 04:53
 c7d5c75b-b533-4c15-a8fd-d1d18d7663dc,aqua.country,available,2298,2450,high,medium,4,namecheap,,,19/09/2026 22:48
 1b1b6191-d942-4a96-b981-896f954a0a58,prayerful.country,available,2298,2450,high,medium,9,namecheap,,,09/09/2026 01:05
 0646504a-e646-4933-aa78-dc858674daf5,rustic.country,available,2298,2450,high,low,6,namecheap,,,
@@ -817,7 +835,7 @@ acc4942f-5811-4d26-bba4-3bf1d9310b32,analgesia.country,available,2298,2450,high,
 da3848ce-01b6-4a67-9d9b-dbf3e3d2899c,accompany.country,available,2298,2450,high,low,9,namecheap,,,24/09/2026 16:41
 fb95ebef-d21d-4dd0-89ec-55f20c9ba57a,canadas.country,available,2450,,high,low,7,namecheap,,,
 28f0cc3a-7b4b-4bf5-b6de-d95e8cc82d19,receipts.country,available,2450,,high,low,8,namecheap,,,
-eeab3289-d0d5-416c-b306-916f686853a1,specific.country,available,2450,,high,low,8,namecheap,,,
+eeab3289-d0d5-416c-b306-916f686853a1,specific.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 02:45
 88f51ac1-b5f9-443e-8629-0e249fae2ca9,courtyard.country,available,2450,,high,low,9,namecheap,,,
 f03bef5f-fd94-4a76-a20d-d7a6e1addd9c,almaty.country,available,2298,2450,high,low,6,namecheap,,,18/09/2026 12:22
 e97f9069-0031-44fb-a32e-92d8fc307c85,childlike.country,available,2298,2450,high,low,9,namecheap,,,12/08/2026 05:12
@@ -869,6 +887,7 @@ f55af201-a8f9-40b8-ae9b-1e92ae6e6ae9,stinky.country,available,2298,2450,high,low
 4c766cad-c786-4a0c-bbda-0b2479fbf135,pastoral.country,available,2298,2450,high,low,8,namecheap,,,06/08/2026 14:20
 20ccf27a-244c-4989-a173-9cc57affec3e,sturdy.country,available,2298,2450,high,low,6,namecheap,,,21/08/2026 00:56
 eef6f796-4754-4b16-b258-e840b6d0475f,nucleonics.country,available,2298,2450,high,low,10,namecheap,,,21/09/2026 00:14
+a6c38049-5a0c-4f58-9ab7-0cc7f6f05f76,ellison.country,available,2298,2450,high,low,7,namecheap,,,27/09/2026 03:49
 11a1914a-5c56-46ce-981d-b28dd341a355,oengus.country,available,2298,2450,medium,low,6,namecheap,,,17/09/2026 12:31
 c0878768-ffff-4487-8ac1-b2d0021aab08,placid.country,available,2298,2450,high,low,6,namecheap,,,17/08/2026 14:50
 77745fb9-bb4b-4a25-b94d-ad62ac48a96f,falsetto.country,available,2298,2450,high,low,8,namecheap,,,17/08/2026 21:33
@@ -883,7 +902,7 @@ d51a7541-4c54-4bf9-89d6-4f099d8a85e5,angularity.country,available,2298,2450,medi
 90cf6225-7d4c-4023-8a69-b8f22f4000f4,nescience.country,available,2298,2450,medium,low,9,namecheap,,,12/09/2026 14:26
 d61da195-625d-440c-87cb-7ff8017fa88c,worthwhile.country,available,2450,,high,low,10,namecheap,,,
 6f12a4ef-a931-4c6c-9317-c6b5d544120a,tattered.country,available,2298,2450,high,medium,8,namecheap,,,10/09/2026 06:05
-09a011a9-3e65-46dd-90bf-58f26094c539,prolific.country,available,2450,,high,low,8,namecheap,,,
+09a011a9-3e65-46dd-90bf-58f26094c539,prolific.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 07:21
 e0cc640a-f778-4fe4-ab44-0fd32e885e59,orthodox.country,available,2298,2450,high,low,8,namecheap,,,14/08/2026 22:55
 6957bc4f-4540-44fc-9b68-2c25b2c56199,fictive.country,available,2298,2450,medium,low,7,namecheap,,,07/08/2026 07:55
 a319001c-519d-4aca-bcd4-158ab6bb5d53,hyalin.country,available,2298,2450,medium,low,6,namecheap,,,21/08/2026 16:10
@@ -922,6 +941,7 @@ de5e7ee0-6143-4ee1-bc53-5051c9c39951,torment.country,available,2298,2450,medium,
 290504a7-f88b-4bd4-b31f-bec1203cbc90,curiosity.country,available,2450,,high,low,9,namecheap,,,
 67bd622f-51ef-40d9-89d8-9b4ea3b55968,clothing.country,available,2298,2450,high,low,8,namecheap,,,23/09/2026 08:13
 9d06b339-8f46-4f52-8631-dcb8bcd7d065,welcome.country,available,2298,2450,high,low,7,namecheap,,,13/09/2026 10:12
+a070b835-f8ea-49bd-8c0a-6d03a4ac5904,sidney.country,available,2298,2450,high,low,6,namecheap,,,27/09/2026 05:44
 088c5572-dcd3-4000-9cc5-2fdddcd33aac,postmark.country,available,2298,2450,high,low,8,namecheap,,,18/08/2026 14:12
 26bee77b-4976-406a-9c46-cdfbb241ec13,threads.country,available,2298,2450,high,low,7,namecheap,,,25/09/2026 00:19
 ec79c1b6-9ec3-4a54-8052-b3858d3b7e74,dime.country,available,2450,,high,low,4,namecheap,,,
@@ -939,7 +959,6 @@ acc7a504-fd94-4ff3-9209-5ff73a66804f,primer.country,available,2450,,high,low,6,n
 4720e605-9183-436e-8132-4a20be8eba51,stevenson.country,available,2298,2450,high,low,9,namecheap,,,17/09/2026 08:37
 f4390d32-6714-40eb-9d83-003db3f1014f,bauxite.country,available,2298,2450,medium,low,7,namecheap,,,22/09/2026 16:42
 72bdb44f-359c-4cd3-8a47-e91d8b5fb5d7,menus.country,available,2298,2450,medium,low,5,namecheap,,,20/09/2026 09:20
-16bc31a1-9f7e-4a6a-a92e-dc61889128e1,perfect.country,available,,,high,low,7,,,,
 7c196440-8523-4d25-97b0-37f69900fc32,flynn.country,available,2298,2450,high,low,5,namecheap,,,25/09/2026 15:37
 8b8a06ea-26da-44e2-a1f7-657367dc8e37,inch.country,available,2298,2450,high,low,4,namecheap,,,25/09/2026 08:00
 9d0c3278-3aff-4df7-850d-6ccf44c8b5a8,learnt.country,available,2450,,medium,low,6,namecheap,,,
@@ -980,22 +999,3 @@ cdaeafa0-21c7-413f-88d7-36fdc13822fc,seat.country,available,2298,2450,medium,low
 af6d8f47-e8d0-4dca-bbb0-d370d0c56413,tantrik.country,available,2298,2450,high,low,7,namecheap,,,11/09/2026 08:07
 f498d1db-b5bf-4564-86a0-52c2ee78764b,humbling.country,available,2298,2450,medium,low,8,namecheap,,,14/08/2026 01:09
 206d5d97-956a-404e-9540-a4bd5bcfe6b6,catapult.country,available,2298,2450,high,low,8,namecheap,,,20/09/2026 00:33
-c9b5e37d-05aa-4868-8a38-c31b33f29349,purses.country,available,2298,2450,medium,low,6,namecheap,,,20/09/2026 11:07
-e081cfdf-1b87-4b87-971b-777a6f5b6942,rust.country,available,2450,,high,low,4,namecheap,,,
-4e36ad0f-69d5-406f-8d8f-6701026c43dd,grandchildren.country,available,2298,2450,medium,low,13,namecheap,,,
-583a63bf-7dd1-4c5d-8c7a-bb76a90a84bf,xoxoxo.country,available,2450,,high,low,6,namecheap,,,
-f2332744-07d3-4dde-95d3-398bfa0b821c,ferret.country,available,2298,2450,high,low,6,namecheap,,,23/09/2026 23:49
-d33a95f8-df4a-4f8f-b421-c4bc769963b9,cenozoic.country,available,2298,2450,medium,low,8,namecheap,,,11/08/2026 23:46
-e93b35d5-b761-4875-aeea-e0fe7f2a4de6,synovial.country,available,2298,2450,medium,low,8,namecheap,,,11/09/2026 06:37
-7e0acae0-cdde-4d8b-b310-3250407eaa66,unpassable.country,available,2298,2450,medium,low,10,namecheap,,,21/08/2026 21:49
-ce205fb4-b890-48bf-8d93-3f088e6c68e7,particular.country,available,2298,2450,high,low,10,namecheap,,,24/09/2026 18:23
-a9681aed-0464-4335-af6d-6e674a25c31c,fancy.country,available,2298,2450,high,low,5,namecheap,,,24/09/2026 16:32
-0a3c15f8-cfce-405d-90b0-f34093a05830,freewill.country,available,2298,2450,high,low,8,namecheap,,,18/08/2026 15:00
-e619e710-730f-4f4b-9474-b6a5edcd514c,athena.country,available,2298,2450,high,medium,6,namecheap,,,20/09/2026 20:35
-3383019b-f3f5-464c-86ee-e8b293f781c2,abaca.country,available,2298,2450,medium,low,5,namecheap,,,16/09/2026 13:44
-e4af09a3-03b4-436e-a5eb-27892af8c54e,blake.country,available,2298,2450,high,low,5,namecheap,,,24/09/2026 03:45
-041f2f46-7119-4f4b-9723-da0748a946f0,parented.country,available,2298,2450,high,low,8,namecheap,,,08/09/2026 01:16
-34b1684a-6d02-4a1a-8d0c-a3fd2d3762a7,clonal.country,available,2298,2450,medium,low,6,namecheap,,,12/08/2026 12:01
-5d61070a-5a29-48e8-a5e2-983c7f5e3b4f,alice.country,available,2298,2450,high,medium,5,namecheap,,,25/09/2026 13:23
-59a021eb-0a52-490d-bf1f-7b839285fa9b,curt.country,available,2298,2450,medium,low,4,namecheap,,,11/08/2026 07:05
-76ac375d-c20d-4ae0-8d51-ea43a4874e65,benzol.country,available,2298,2450,high,low,6,namecheap,,,23/09/2026 08:53
