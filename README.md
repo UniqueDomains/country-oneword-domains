@@ -1,10 +1,10 @@
-# Available .COUNTRY One-Word Domains (31,569)
+# Available .COUNTRY One-Word Domains (33,083)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C569%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C083%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .country one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,569 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,083 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,569 domains · **Median ask:** $2,247.37 · **High-demand under $2,500:** 63
+**Public extract:** 1,000 rows · **Live catalog:** 33,083 domains · **Median ask:** $2,238.19 · **High-demand under $2,500:** 64
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/country`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| home.country       | available | $2,298    | $2,450        | high           | medium | 4      | namecheap |
-| science.country    | available | $2,064.20 | $2,064.20     | high           | medium | 7      | spaceship |
-| image.country      | available | $2,060.25 | $2,060.25     | high           | medium | 5      | porkbun   |
-| enough.country     | available | $2,298    | $2,450        | high           | low    | 6      | namecheap |
-| dinosaur.country   | available | $2,064.20 | $2,064.20     | high           | low    | 8      | spaceship |
-| gusto.country      | available | $2,140.22 | $2,140.22     | high           | low    | 5      | dynadot   |
-| mountain.country   | available | $2,298    | $2,450        | high           | low    | 8      | namecheap |
-| question.country   | available | $2,298    | $2,450        | high           | low    | 8      | namecheap |
-| whiteboard.country | available | $2,064.20 | $2,064.20     | high           | low    | 10     | spaceship |
-| observer.country   | available | $2,298    | $2,450        | high           | low    | 8      | namecheap |
-| elvis.country      | available | $2,064.20 | $2,064.20     | high           | low    | 5      | spaceship |
-| veggie.country     | available | $2,298    | $2,450        | high           | low    | 6      | namecheap |
-| revenue.country    | available | $2,060.25 | $2,060.25     | high           | low    | 7      | porkbun   |
-| anticipate.country | available | $2,298    | $2,450        | high           | low    | 10     | namecheap |
-| ball.country       | available | $2,298    | $2,450        | high           | low    | 4      | namecheap |
-| carpet.country     | available | $2,298    | $2,450        | high           | low    | 6      | namecheap |
-| posting.country    | available | $2,064.20 | $2,064.20     | high           | low    | 7      | spaceship |
-| topic.country      | available | $2,298    | $2,450        | high           | low    | 5      | namecheap |
-| published.country  | available | $2,298    | $2,450        | high           | low    | 9      | namecheap |
-| supervisor.country | available | $2,064.20 | $2,064.20     | high           | low    | 10     | spaceship |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| afp.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| crc.country  | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun   |
+| cxl.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| dat.country  | available | $2,064.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| dbs.country  | available | $2,064.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| deo.country  | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun   |
+| ecm.country  | available | $2,140.22 | $2,140.22     | high           | low    | 3      | dynadot   |
+| fdr.country  | available | $2,064.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| hms.country  | available | $2,064.20 | $2,064.20     | medium         | low    | 3      | spaceship |
+| ist.country  | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun   |
+| lui.country  | available | $2,064.20 | $2,064.20     | medium         | low    | 3      | spaceship |
+| rac.country  | available | $2,140.22 | $2,140.22     | high           | low    | 3      | dynadot   |
+| soe.country  | available | $2,298    | $2,450        | medium         | low    | 3      | namecheap |
+| sse.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| sul.country  | available | $2,298    | $2,450        | medium         | low    | 3      | namecheap |
+| tva.country  | available | $2,064.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| vax.country  | available | $2,064.20 | $2,064.20     | high           | low    | 3      | spaceship |
+| zhu.country  | available | $2,298    | $2,450        | high           | low    | 3      | namecheap |
+| abbe.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
+| agar.country | available | $2,298    | $2,450        | medium         | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,569 live domains                        |
+| 1,000-row public sample | 33,083 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 63 high-demand names under $2,500          |
+| Basic exported fields   | 64 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUNTRY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
